@@ -4,9 +4,9 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Gitple, GitpleView } from 'react-native-gitple-sdk';
 
-const APP_CODE = '0gB8bTBoPOE6lWnleDun9wRGIeef11';
+const APP_CODE = '{{APP_CODE}}';
 const USER_INFO = {
-  id: 'reactnatvie002',
+  id: 'reactnatvie',
   email: 'reactnative@gitple.com',
   name: 'reactnative'
 };
